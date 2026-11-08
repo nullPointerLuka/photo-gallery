@@ -1,0 +1,21 @@
+/*
+ * Estilos globales de la aplicación.
+ * Se importan los estilos base de Ionic (necesarios para que los componentes
+ * <ion-*> se vean correctamente) y las utilidades de tipografía/espaciado.
+ */
+
+/* CSS núcleo requerido por los componentes de Ionic */
+@import "@ionic/angular/css/core.css";
+
+/* CSS básico para aplicaciones construidas con Ionic */
+@import "@ionic/angular/css/normalize.css";
+@import "@ionic/angular/css/structure.css";
+@import "@ionic/angular/css/typography.css";
+@import "@ionic/angular/css/display.css";
+
+/* Utilidades opcionales de Ionic (padding, alineación de texto, etc.) */
+@import "@ionic/angular/css/padding.css";
+@import "@ionic/angular/css/float-elements.css";
+@import "@ionic/angular/css/text-alignment.css";
+@import "@ionic/angular/css/text-transformation.css";
+@import "@ionic/angular/css/flex-utils.css";
